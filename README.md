@@ -24,6 +24,8 @@ It is a mini project done while learning React.
   </ul>
 </details>
 
+<img src="./netflix-front-clone.png" alt="netflic clone">
+
 ### Built With
 
 - [React](https://reactjs.org/)
